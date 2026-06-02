@@ -1,7 +1,7 @@
 ---
 name: Z-Wave JS UI Garden Garage
 version: 7.3.0
-slug: zwave_garden_garage
+slug: zwavejs2mqtt_garden
 description: Z-Wave JS UI for Garden Garage controller
 url: https://github.com/hassio-addons/addon-zwave-js-ui
 ingress: true
